@@ -1,5 +1,11 @@
 {
     "name": "dutkan/app-key",
+    "version": "0.0.1",
+    "dist": {
+        "type": "vcs",
+        "url": "https://github.com/olgundutkan/app-key"
+        
+    },
     "description": "Generate new application key for Laravel Lumen 5.",
     "authors": [
         {
