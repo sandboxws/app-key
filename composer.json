@@ -1,9 +1,9 @@
 {
-    "name": "dutkan/app-key",
+    "name": "sandboxws/app-key",
     "version": "0.0.1",
     "dist": {
         "type": "vcs",
-        "url": "https://github.com/olgundutkan/app-key"
+        "url": "https://github.com/sandboxws/app-key"
         
     },
     "description": "Generate new application key for Laravel Lumen 5.",
@@ -11,6 +11,10 @@
         {
             "name": "Olgun DUTKAN",
             "email": "olgundutkan@gmail.com"
+        },
+        {
+            "name": "Ahmed El.Hussaini",
+            "email": "aelhussaini@gmail.com"
         }
     ],
     "require": {
